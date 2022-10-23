@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Meita Wilianisa
+Hi! I'm Meita Wilianisa
 
 <!---
 mwilians/mwilians is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
